@@ -1,0 +1,26 @@
+{
+    "title": "ImportExportTools NG modPEC",
+    "name": "import-export-tools-ng-modpec",
+    "version": "4.0.4-b1",
+    "description": "Import and export next-gen tools for messages and folders, with PEC backup functionalities",
+    "author": "Paolo Kaosmos, Christopher Leidigh, Alberto Pianon",
+    "engines": {
+        "": ">=38.0a1"
+    },
+    "license": "GPLv3",
+    "config": {
+        "source_dir": "./src",
+        "target_dir": "./xpi",
+        "target_suffix": "-tb",
+        "target_extension": ".xpi",
+        "target_include_manifest": "true"
+    },
+    "scripts": {
+        "build-xpi-bat": ".\\scripts\\build-xpi.bat",
+        "build-xpi": "node ./scripts/build-xpi.js"
+    },
+    "keywords": [
+        "jetpack"
+    ],
+    "dependencies": {}
+}

@@ -1,0 +1,8 @@
+{
+	"extensionName": {
+		"message": "ImportExportTools NG modPEC"
+	},
+	"extensionDescription": {
+		"message": "Aggiunge diversi strumenti per importare ed esportare i messaggi (NextGen) con funzionalità di backup per messaggi PEC"
+	}
+}
