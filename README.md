@@ -1,11 +1,12 @@
 # ImportExportTools NG modPEC
 
-## Note for non-Italian users This is a MOD of a well-known Thunderbird
+## Note for non-Italian users 
 
-Addon (ImportExportTools NG - for more details see `README_orig.md`),
-specifically intended to add functionalities to backup [Italian
-certified email messages](https://en.wikipedia.org/wiki/Certified_email)
-and preserve their legal value as digitally signed documents.
+This is a MOD of a well-known Thunderbird Addon (ImportExportTools NG -
+for more details see `README_orig.md`), specifically intended to add
+functionalities to backup  [Italian certified email
+messages](https://en.wikipedia.org/wiki/Certified_email) and preserve
+their legal value as digitally signed documents.
 
 If you are not using Italian Certified Email ("PEC") nor you need to
 create a hash list of your messages saved in EML format, you probably do
